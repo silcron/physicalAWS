@@ -1,0 +1,6 @@
+[AWS_SERVER INFO]
+
+AWS SERVER IP : 13.209.101.237
+사용자 이름 : admin
+SSH key : "C:\Users\phili\Desktop\AWS\SSHkey.pem"
+웹 폴더: /var/www/html
